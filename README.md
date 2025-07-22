@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jonas!
 
-I'm an **IT Systems Integration Specialist** working in the Support/IT department at a software company.
+I'm an **IT Systems Integration Specialist** 
 
 ---
 
