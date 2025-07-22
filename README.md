@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Makario1337&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
+</p>
 <!--
 **Makario1337/Makario1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
