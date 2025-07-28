@@ -2,6 +2,13 @@
 
 I'm an **IT Systems Integration Specialist** 
 
+![Operating Systems Basics](https://images.credly.com/size/192x192/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png)
+![Linux Essentials 1](https://images.credly.com/size/192x192/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png)
+![Python Essentials 1](https://images.credly.com/size/192x192/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)
+![Python Essentials 2](https://images.credly.com/size/192x192/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png)
+
+
+
 ---
 
 #### 🛠️ My Tech Stack
