@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="467" height="170" viewBox="0 0 467 170" role="img" aria-label="173 total contributions, current streak 2 days, longest streak 4 days">
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="170" viewBox="0 0 467 170" role="img" aria-label="173 total contributions, current streak 0 days, longest streak 4 days">
   <style>
     text { font-family: 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; text-anchor: middle; }
     .value { font-size: 32px; font-weight: 700; }
@@ -11,11 +11,11 @@
   <text x="82" y="72" class="value" fill="#bd93f9">173</text>
   <text x="82" y="104" class="label" fill="#f8f8f2">Total Contributions</text>
   <text x="82" y="128" class="detail">Since Jan 1, 2020</text>
-  <text x="233" y="72" class="value" fill="#ff79c6">2</text>
+  <text x="233" y="72" class="value" fill="#ff79c6">0</text>
   <text x="233" y="104" class="label" fill="#f8f8f2">Current Streak</text>
-  <text x="233" y="128" class="detail">Nov 6, 2026 – Nov 7, 2026</text>
+  <text x="233" y="128" class="detail">No active streak</text>
   <text x="384" y="72" class="value" fill="#8be9fd">4</text>
   <text x="384" y="104" class="label" fill="#f8f8f2">Longest Streak</text>
   <text x="384" y="128" class="detail">Sep 23, 2022 – Sep 26, 2022</text>
-  <text x="233" y="156" class="detail">Updated Nov 8, 2026 (UTC)</text>
+  <text x="233" y="156" class="detail">Updated Nov 9, 2026 (UTC)</text>
 </svg>
